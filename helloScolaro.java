@@ -11,3 +11,7 @@ for(int i=0;i<3;i++){
 
 }
 }
+
+//Stampa la data di nascita
+System.out.println("13 novembre 2007");
+ 
