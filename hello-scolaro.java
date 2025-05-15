@@ -7,5 +7,6 @@ public class HelloScolaro {
         }
         System.out.println("13.11.2007");
         System.out.println("Forza Juve!");
+        System.out.println("Ghafoor è stato qui");
     }
 }
